@@ -133,7 +133,8 @@ function editDelete(event) {
 
 updateTable();
 
-// Events
+// Eventos
+
 document
   .getElementById("cadastrarCliente")
   .addEventListener("click", openModal);
